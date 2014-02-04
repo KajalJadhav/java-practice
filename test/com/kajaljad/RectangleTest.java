@@ -1,5 +1,6 @@
 package com.kajaljad;
 
+import com.kajaljad.shapes.Rectangle;
 import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;
